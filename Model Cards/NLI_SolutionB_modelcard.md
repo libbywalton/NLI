@@ -5,7 +5,7 @@ language: en
 license: cc-by-4.0
 tags:
 - pairwise-text-classification
-repo: https://github.com/aishawahid/COMP34812
+repo: https://github.com/libbywalton/NLI
 
 ---
 
